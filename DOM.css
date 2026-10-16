@@ -1,0 +1,20 @@
+/* h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+button{
+    background-color: purple;
+    color: white;
+} */
+ body {
+    background-color: aqua;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: white;
+}
